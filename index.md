@@ -14,10 +14,10 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
 
 ## Weekly Journals
-1. Week 1
-1. Week 2
-1. Week 3
-1. Week 4
-1. Week 5
-1. Week 6
-   1. Exit Ticket
+1. [Week 1](https://github.com/WilliamKohlman/week-one/blob/master/journal.md)
+1. [Week 2](https://github.com/WilliamKohlman/week-two/blob/master/journal.md)
+1. [Week 3](https://github.com/WilliamKohlman/week-three/blob/master/Journal.md)
+1. [Week 4](https://github.com/WilliamKohlman/week-four/blob/master/journal.md)
+1. [Week 5](https://github.com/WilliamKohlman/week-five/blob/master/Journal.md)
+1. [Week 6](https://github.com/WilliamKohlman/week-six/blob/master/Journal.md)
+   1. [Exit Ticket](Exit Ticket)
