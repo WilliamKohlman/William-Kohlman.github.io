@@ -7,12 +7,6 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 ![gif ftw](https://media.giphy.com/media/nXxOjZrbnbRxS/200w_d.gif)
 
 
-![RomanMilitaryEvolution](RomeMilitaryEvolution.png)
-
-
-## My storyboard
-### A history of places that I've worked with one omission (oops)
-<iframe src="https://uploads.knightlab.com/storymapjs/1134fddfd1f6776d571b5dbf1e4bb484/my-first-storymap/index.html" frameborder="0" width="100%" height="800"></iframe>
 
 
 
@@ -24,3 +18,13 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 1. [Week 5](https://github.com/WilliamKohlman/week-five/blob/master/Journal.md)
 1. [Week 6](https://github.com/WilliamKohlman/week-six/blob/master/Journal.md)
    1. [Exit Ticket](Exit Ticket)
+
+[Animated Maps!](web-map/index3.html)
+
+![RomanMilitaryEvolution](RomeMilitaryEvolution.png)
+
+
+
+## My storyboard
+### A history of places that I've worked with one omission (oops)
+<iframe src="https://uploads.knightlab.com/storymapjs/1134fddfd1f6776d571b5dbf1e4bb484/my-first-storymap/index.html" frameborder="0" width="100%" height="800"></iframe>
