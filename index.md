@@ -17,7 +17,7 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 1. [Week 4](https://github.com/WilliamKohlman/week-four/blob/master/journal.md)
 1. [Week 5](https://github.com/WilliamKohlman/week-five/blob/master/Journal.md)
 1. [Week 6](https://github.com/WilliamKohlman/week-six/blob/master/Journal.md)
-   1. [Exit Ticket](Exit Ticket)
+   1. [Exit Ticket](ExitTicket.md)
 
 [Animated Maps!](web-map/index3.html)
 
