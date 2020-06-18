@@ -15,6 +15,8 @@ Here are all the occurences of FtM in the corpus. [Part 1](Screenshots/AntConcFT
 ![](Screenshots/AntConcFTM-Collocate.png)
 
 When looking at how FtM was used, it collocated the best with the address used by a United States Transsexual group that the group started in Australia communicated with (the first 6 terms relate to this address). 
+<br> <br> <br>
+
 
 
 
