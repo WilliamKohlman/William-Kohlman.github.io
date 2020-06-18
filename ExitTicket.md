@@ -26,13 +26,4 @@ Interesting to compare it to the TopicModellingTool which ran at 400 iterations
 
 
 
-## AntConc
 
-![](Screenshots/AntConcFTM1.png)
-![](Screenshots/AntConcFTM2.png)
-![](Screenshots/AntConcFTM3.png)
-
-
-
-
-[Back](index.md)
