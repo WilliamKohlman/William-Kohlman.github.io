@@ -1,4 +1,4 @@
-|[Home](index.md) | [AntConc](AntConc.md) | [Conclusion](Conclusion.md)|
+| [Home](index.md) | [AntConc](AntConc.md) | [Conclusion](Conclusion.md) |
 
 ## Voyant
 
