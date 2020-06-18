@@ -52,6 +52,10 @@ The term that collocated the best with "Gender" was "Group" which was not surpri
 
 Unfortunately AntConc did not list "FtM" as a term that collocated with "Gender" so I could not explore my hypothesis of FtM and Gender being used frequently in the same documents be because of letters submitted by readers detailing more about their lives and experiences with gender as an FtM.
 
+Full Results can be seen [here](https://voyant-tools.org/?corpus=16ca32d63ed3573f7317c370e4c9d5bd)
+
+
+
 
 
 [Home](index.md) | [Week Six](Week6.md) | [Voyant](Voyant.md) | [Conclusion](Conclusion.md)
