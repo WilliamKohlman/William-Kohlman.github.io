@@ -16,6 +16,11 @@ This is my site that I built with gh-pages for Crafting Digital History
 1. [Week 6](https://github.com/WilliamKohlman/week-six/blob/master/Journal.md)
    1. [Exit Ticket](ExitTicket.md)
 
+
+
+### Just for Fun
+
+#### Here's some stuff I added that I've done just for fun.
 [Animated Maps!](web-map/index3.html)
 
 ![RomanMilitaryEvolution](RomeMilitaryEvolution.png)
