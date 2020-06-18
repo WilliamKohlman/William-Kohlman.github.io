@@ -1,4 +1,4 @@
-[Home](index.md) | [AntConc](AntConc.md) | [Conclusion](Conclusion.md)
+[Home](index.md) | [ExitTicket](ExitTicket.md) | [AntConc](AntConc.md) | [Conclusion](Conclusion.md)
 
 ## Voyant
 
@@ -19,4 +19,4 @@ Interesting to compare it to the TopicModellingTool which ran at 400 iterations
 
 ![](BWBB-TMT.png)
 
-[Home](index.md) | [AntConc](AntConc.md) | [Conclusion](Conclusion.md)
+[Home](index.md) | [ExitTicket](ExitTicket.md) | [AntConc](AntConc.md) | [Conclusion](Conclusion.md)
