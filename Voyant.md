@@ -36,6 +36,6 @@ I mainly only ran this tool since I had not realized Voyant offered a Topics too
 The TopicModellingTool  ran at 400 iterations and gave this result:
 ![](BWBB-TMT.png)
 
-From using Voyant to look at the Macro view of the text, I uncovered some potential areas of interest to explore with a zoomed in view of the text to explore with AntConc.
+From using Voyant to look at the Macro view of the text, I uncovered some potential areas of interest to explore with AntConc for a more detailed view.
 
 [Home](index.md) | [Week Six](Week6.md) | [AntConc](AntConc.md) | [Conclusion](Conclusion.md)
