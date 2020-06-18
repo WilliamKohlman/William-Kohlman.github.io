@@ -7,7 +7,7 @@
 Based on my findings from using Voyant, I wanted to do a deeper exploration of how the terms "FtM" and "Gender" were used.
 
 #### FtM
-Here are all the [Part 1](Screenshots/AntConcFTM1.png), [Part 2](Screenshots/AntConcFTM2.png), and [Part 3](Screenshots/AntConcFTM3.png) are all the occurences of FtM in the corpus.
+Here are all the occurences of FtM in the corpus. [Part 1](Screenshots/AntConcFTM1.png), [Part 2](Screenshots/AntConcFTM2.png), and [Part 3](Screenshots/AntConcFTM3.png) 
 
 
 ![](Screenshots/AntConcFTM-Collocate.png)
@@ -25,6 +25,15 @@ I was able to use AntConc to further explore a brief hypothesis I had made for w
 
 
 #### Gender
+
+Here are all the occurences of Gender being used in the corpus: [Part 1](Screenshots/AntConcGender1.png) and [Part 2](Screenshots/AntConcGender2.png).
+
+
+![](Screenshots/AntConcGenderCollocate.png)
+The term that collocated the best with "Gender" was "Group" which was not surprising to me, since it makes sense that this group would seek out and recommend other like-minded groups. Similarly, "Issues" was the second best collocating term with "Gender". This was unsurprising since this group was focused on certain gender issues so it is only logical that they mention other Gender Issues publications and groups.
+
+Unfortunately AntConc did not list "FtM" as a term that collocated with "Gender" so I could not explore my hypothesis of FtM and Gender being used frequently in the same documents be because of letters submitted by readers detailing more about their lives and experiences with gender as an FtM.
+
 
 
 [Home](index.md) | [Week Six](Week6.md) | [Voyant](Voyant.md) | [Conclusion](Conclusion.md)
