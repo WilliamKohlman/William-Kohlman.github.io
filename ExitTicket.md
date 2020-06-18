@@ -14,9 +14,9 @@
   
   
   
-  ![](https://tenor.com/Ag9Q.gif)
+  ![SLATFATF](https://tenor.com/Ag9Q.gif)
   
-  ![](https://tenor.com/o4QM.gif)
+  ![BeExcellent](https://tenor.com/o4QM.gif)
   
   
   
