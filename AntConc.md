@@ -1,4 +1,4 @@
-[Home](index.md) | [Voyant](Voyant.md) | [Conclusion](Conclusion.md)
+[Home](index.md) | [ExitTicket](ExitTicket.md) | [Voyant](Voyant.md) | [Conclusion](Conclusion.md)
 
 
 
@@ -12,4 +12,4 @@
 
 
 
-[Home](index.md) | [Voyant](Voyant.md) | [Conclusion](Conclusion.md)
+[Home](index.md) | [ExitTicket](ExitTicket.md) | [Voyant](Voyant.md) | [Conclusion](Conclusion.md)
