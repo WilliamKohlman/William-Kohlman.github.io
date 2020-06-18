@@ -14,12 +14,12 @@
   
   
   
-  ![SLATFATF](https://tenor.com/Ag9Q.gif)
+
   
-  ![BeExcellent](https://tenor.com/o4QM.gif)
+  <div class="tenor-gif-embed" data-postid="6223416" data-share-method="host" data-width="100%" data-aspect-ratio="2.4292682926829268"><a href="https://tenor.com/view/be-excellent-to-each-other-gif-6223416">Be Excellent To Each Other GIF</a> from <a href="https://tenor.com/search/beexcellenttoeachother-gifs">Beexcellenttoeachother GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
   
-  
+  <div class="tenor-gif-embed" data-postid="3554498" data-share-method="host" data-width="100%" data-aspect-ratio="1.7714285714285714"><a href="https://tenor.com/view/hitchhikers-guide-to-the-galaxy-dont-panic-dolphins-fish-so-long-gif-3554498">So Long And Thanks For All The Fish! - Hitchhiker's Guide To The Galaxy GIF</a> from <a href="https://tenor.com/search/hitchhikersguidetothegalaxy-gifs">Hitchhikersguidetothegalaxy GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
   
   
