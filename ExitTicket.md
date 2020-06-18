@@ -15,7 +15,7 @@
 ### Topic
 <iframe style='width: 958px; height: 323px;' src='https://voyant-tools.org/tool/Topics/?stopList=keywords-bcc95d829f38decf41473bc784947d95&numTopics=10&corpus=16ca32d63ed3573f7317c370e4c9d5bd'></iframe>
 
-Interesting to compare it to 
+Interesting to compare it to the TopicModellingTool which ran at 400 iterations
 
 ![](BWBB-TMT.png)
 
