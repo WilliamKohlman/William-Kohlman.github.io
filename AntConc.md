@@ -46,6 +46,8 @@ Here are all the occurences of Gender being used in the corpus: [Part 1](Screens
 
 
 ![](Screenshots/AntConcGenderCollocate.png)
+
+
 The term that collocated the best with "Gender" was "Group" which was not surprising to me, since it makes sense that this group would seek out and recommend other like-minded groups. Similarly, "Issues" was the second best collocating term with "Gender". This was unsurprising since this group was focused on certain gender issues so it is only logical that they mention other Gender Issues publications and groups.
 
 Unfortunately AntConc did not list "FtM" as a term that collocated with "Gender" so I could not explore my hypothesis of FtM and Gender being used frequently in the same documents be because of letters submitted by readers detailing more about their lives and experiences with gender as an FtM.
