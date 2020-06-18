@@ -1,6 +1,10 @@
 [Home](index.md) | [Week Six](Week6.md) | [AntConc](AntConc.md) | [Conclusion](Conclusion.md)
 
 ## Voyant
+In Voyant, I mainly wanted to look at the Cirrus to look at what terms occured the most, so that it could guide my area of focus. I did this by looking at the Cirrus tool in Voyant.
+
+### Cirrus
+<iframe style='width: 588px; height: 502px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=16ca32d63ed3573f7317c370e4c9d5bd'></iframe>
 
 ### Trends
 <iframe style='width: 638px; height: 502px;' src='https://voyant-tools.org/tool/Trends/?query=ftm&query=newsletter&query=boys&query=new&query=gender&corpus=16ca32d63ed3573f7317c370e4c9d5bd'></iframe>
