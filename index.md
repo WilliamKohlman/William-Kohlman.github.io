@@ -14,7 +14,9 @@ This is my site that I built with gh-pages for Crafting Digital History
 1. [Week 4](https://github.com/WilliamKohlman/week-four/blob/master/journal.md)
 1. [Week 5](https://github.com/WilliamKohlman/week-five/blob/master/Journal.md)
 1. [Week 6](https://github.com/WilliamKohlman/week-six/blob/master/Journal.md)
+   1. [Week 6 Work](Week6.md)
    1. [Exit Ticket](ExitTicket.md)
+   
 
 
 
